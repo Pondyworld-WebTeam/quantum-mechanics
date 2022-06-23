@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     
     <meta property="og:description" content="Meet Top Medical Researches from Japan, Philippines, Asia pacific, Europe, USA, Middle East, at dental meeting 2022, Dental conferences 2022, CME Conferences 2022, Dental Conferences Japan"/>
-    <meta property="og:image" content="https://www.colossalmeetings.com/dental-science.jpg"/>
+    <meta property="og:image" content="https://www.colossalmeetings.com/dental-science.jpg"/>fgfg
     <meta name="keywords" content=": Dental conferences, Oral health Conferences, Dental events, Dental workshops, Dental meetings 2018,Dentistry,Cosmetic dentist, Dental events Asia, Dental Research">
     <meta name="twitter:card" content="summary_large_image">
     <meta property="og:title" content="Quantum Medicine 2022"/>
